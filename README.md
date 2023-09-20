@@ -1,8 +1,9 @@
 # My Personal Website
 
-**My howepage:** 
+**My homepage:** 
 http://www.tongyichen.com/
 currently not working
+
 **My website:** 
 https://eziotong.github.io/
 working now
