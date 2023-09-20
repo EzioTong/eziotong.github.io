@@ -1,3 +1,9 @@
-# 我的主页
+# My Personal Website
 
-**My howepage:** http://yichentong.com/
+**My howepage:** 
+http://www.tongyichen.com/
+currently not working
+**My website:** 
+https://eziotong.github.io/
+working now
+
